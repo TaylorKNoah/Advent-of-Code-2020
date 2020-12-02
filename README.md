@@ -2,6 +2,7 @@
 
 ## Taylor Noah
 
-Star Count: 2 / 50
-Puzzle Completion List
+Star Count: 2 / 50  
+
+Puzzle Completion List    
 ---|---|---
