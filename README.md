@@ -5,4 +5,4 @@
 Star Count: 2 / 50  
 
 Puzzle Completion List    
---- | --- | ---
+| --- |
