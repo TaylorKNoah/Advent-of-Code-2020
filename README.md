@@ -1,3 +1,3 @@
-#Taylor Noah
+# Taylor Noah
 
-###Advent of Code 2020 solutions
+### Advent of Code 2020 solutions
