@@ -1,5 +1,4 @@
-# Puzzle #2 Solution
+# Puzzle #4 Solution
 ### Taylor Noah
 
-
-Puzzle 4 Coming Soon!
+Coming Soon!
