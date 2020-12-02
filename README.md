@@ -6,4 +6,5 @@ Star Count: 2 / 50
       
 | Puzzle Completion List   |  |
 | --- | --- |
-1 | `COMPLETE`
+1 | `COMPLETE`  
+2 | `COMPLETE`  
