@@ -4,7 +4,7 @@
 
 Star Count: 2 / 50  
       
-| Puzzle Completion List   |  |  |  
+| Puzzle Completion List   | Status | Lang |  
 | --- | --- | --- |  
 1 | `COMPLETE`  | c++ |  
 2 | `COMPLETE`  | c++ |  
