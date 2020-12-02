@@ -1,4 +1,4 @@
-# Puzzle #2 Solution
+# Puzzle #1 Solution
 ### Taylor Noah
 
 To Run:  
