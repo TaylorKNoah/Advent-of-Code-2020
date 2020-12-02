@@ -5,5 +5,5 @@
 Star Count: 2 / 50
 
 ---
-Puzzle Completion List: Puzzle1 `complete`
+Puzzle Completion List:  Puzzle 1 : `complete`
 ---
