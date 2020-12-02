@@ -52,7 +52,7 @@ int main(int argc, char* argv[])
     for(int i=0; i<nums; ++i)
     {
         getline(in, temp);
-        buffer[i] = new char[(sizeof(temp.data())+1)];
+        buffer[i] = new char[(strlen(temp.data())+1)];
         strcpy(buffer[i], temp.data());
         //printf("\nBuffer[%i]: %s", i, buffer[i]);
     }
