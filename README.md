@@ -7,4 +7,6 @@ Star Count: 2 / 50
 | Puzzle Completion List   | Status | Language Used |  
 | --- | --- | --- |  
 1 | `COMPLETE`  | c++ |  
-2 | `COMPLETE`  | c++ |  
+2 | `COMPLETE`  | c++ | 
+3 | `COMPLETE`  | Python | 
+4 | `COMPLETE`  | Python | 
