@@ -1,6 +1,6 @@
 
 
-with open('aoc4.txt') as f:
+with open('Day_4/aoc4.txt') as f:
     valid = 0
     parts = [False for i in range(7)]
 
@@ -20,18 +20,25 @@ with open('aoc4.txt') as f:
         #Check each line for missing parts
         else:
             if not parts[0]:
-                i1 = line.find("byr:")
-                if i1 > -1:
-                    j1 = i1+1
-                    while line[j1] != ' ' and line[j1] != '\n':
-                        j1 += 1
-                    byr = int(line[i1+4:j1])
-                    if byr > 1920 and byr < 2002:
+                i = line.find("byr:")
+                if i > -1:
+                    j = i+1
+                    while line[j] != ' ' and line[j] != '\n':
+                        j += 1
+                    byr = int(line[i+4:j])
+                    if byr >= 1920 and byr <= 2002:
                         parts[0] = True
 
             if not parts[1]:
-                if line.find("iyr:") > -1:
-                    parts[1] = True
+                i = line.find("iyr:") > -1
+                if i > -1:
+                    j = i+1
+                    while line[j] !=' ' and line[j] != '\n':
+                        j += 1
+                    iyr = int(line[i+4:j])
+                    if byr >= 2010 and iyr <= 2020:
+                        parts[1] = True
+
             
             if not parts[2]:
                 if line.find("eyr:") > -1:

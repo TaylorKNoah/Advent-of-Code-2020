@@ -1,6 +1,6 @@
 
 
-with open('aoc4.txt') as f:
+with open('Day_4/aoc4.txt') as f:
     valid = 0
     parts = [False for i in range(7)]
 

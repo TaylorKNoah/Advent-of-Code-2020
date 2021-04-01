@@ -1,4 +1,4 @@
-with open('aoc2.txt') as f:
+with open('Day_2/aoc2.txt') as f:
     valid = 0
     for line in f:
         i = 0

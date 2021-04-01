@@ -1,4 +1,4 @@
-with open('aoc3.txt') as f:
+with open('Day_3/aoc3.txt') as f:
     r = 3
     d = 1
     l = len(f.readline()) -1

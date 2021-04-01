@@ -1,4 +1,4 @@
-with open('aoc3.txt') as f:
+with open('Day_3/aoc3.txt') as f:
     r1 = 1
     r3 = 3
     r5 = 5
