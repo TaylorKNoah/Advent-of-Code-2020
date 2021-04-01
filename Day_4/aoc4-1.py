@@ -47,6 +47,7 @@ with open('Day_4/aoc4.txt') as f:
                 if line.find("pid:") > -1:
                     parts[6] = True
         
+        #if there is no '\n' then i must be at the end of the file
         if line.find('\n') < 0:
             if all(parts):
                 valid += 1
